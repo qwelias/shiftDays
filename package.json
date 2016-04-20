@@ -1,0 +1,22 @@
+{
+  "name": "shift-days",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shiftDays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://qwemaze@github.com/qwemaze/shiftDays.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwemaze/shiftDays/issues"
+  },
+  "homepage": "https://github.com/qwemaze/shiftDays#readme",
+  "dependencies": {
+    "date-holidays": "0.1.5"
+  }
+}
