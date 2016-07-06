@@ -1,10 +1,13 @@
 {
   "name": "shift-days",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Shift days skipping weekends and holidays.",
   "main": "shiftDays.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines":{
+      "node": ">=4"
   },
   "repository": {
     "type": "git",
